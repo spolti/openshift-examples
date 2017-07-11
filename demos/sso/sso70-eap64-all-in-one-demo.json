@@ -24,25 +24,25 @@
         {
             "description": "Custom hostname for http service route.  Leave blank for default hostname, e.g.: <application-name>.<project>.<default-domain-suffix>",
             "name": "HOSTNAME_HTTP",
-            "value": "helloworld.cloudapps.example.com",
+            "value": "",
             "required": false
         },
         {
             "description": "Custom hostname for https service route.  Leave blank for default hostname, e.g.: <application-name>.<project>.<default-domain-suffix>",
             "name": "HOSTNAME_HTTPS",
-            "value": "secure-helloworld.cloudapps.example.com",
+            "value": "",
             "required": false
         },
         {
             "description": "Custom hostname for SSO http service route.  Leave blank for default hostname, e.g.: <application-name>.<project>.<default-domain-suffix>",
             "name": "SSO_HOSTNAME_HTTP",
-            "value": "sso.cloudapps.example.com",
+            "value": "",
             "required": false
         },
         {
             "description": "Custom hostname for SSO https service route.  Leave blank for default hostname, e.g.: <application-name>.<project>.<default-domain-suffix>",
             "name": "SSO_HOSTNAME_HTTPS",
-            "value": "secure-sso.cloudapps.example.com",
+            "value": "",
             "required": false
         },
         {
